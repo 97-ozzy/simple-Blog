@@ -1,1 +1,1 @@
-Code simple blog using react.
+I coded simple blog using react.
